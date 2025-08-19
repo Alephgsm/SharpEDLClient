@@ -1,0 +1,39 @@
+namespace SharpEDLClient.Forms
+{
+    partial class Customloader
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name = "disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            throw new NotImplementedException("To get full source code, contact us at https://alephgsm.com/contact-us/");
+        }
+
+#region Windows Form Designer generated code
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            throw new NotImplementedException("To get full source code, contact us at https://alephgsm.com/contact-us/");
+        }
+
+#endregion
+        private System.Windows.Forms.Button BtnReturn;
+        private System.Windows.Forms.Panel NavBar;
+        private System.Windows.Forms.Button BtnClose;
+        private System.Windows.Forms.ComboBox CmbBxStorageType;
+        private System.Windows.Forms.Label label2;
+        internal System.Windows.Forms.Button BtnSelectFirehose;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.GroupBox groupBox1;
+        private SharpMTKClient.Control.HintTextBox TxtBxFirehose;
+    }
+}
