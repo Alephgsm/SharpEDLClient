@@ -33,7 +33,8 @@ etc ….
 ```
 
 # Bypass authorization?
-in this tool exist free bypass authorization with exploit
+exploit for bypass auth exist we included in this project
+
 Models affected include, but are not limited to:
 ```
 Black Shark 4, Black Shark 4S (penrose)
