@@ -33,7 +33,7 @@ etc ….
 ```
 
 # Bypass authorization?
-exploit for bypass auth exist we included in this project
+exploit for bypass auth we included in this project
 
 Models affected include, but are not limited to:
 ```
